@@ -1,0 +1,19 @@
+ECLIPSE:
+
+Ctrl + D: borrar línea
+
+Ctrl + Shift + F: tabula código
+
+Ctrl + Shift + o: importar
+
+Shift + Inicio (1 o más pulsaciones): seleccionar texto
+
+Shift + Fin (1 o más pulsaciones): seleccionar texto
+
+Alt + flecha arriba/abajo: mueve la línea e la que está el cursor
+
+Ctrl + AvPag: moverse entre pestañas
+
+Ctrl + RePag: moverse entre pertañas
+
+Alt + Shift: cambiar la configuración del teclado entre español e inglés
